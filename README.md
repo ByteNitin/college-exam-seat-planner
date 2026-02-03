@@ -20,7 +20,7 @@ Classrooms are sorted by floor number in ascending order. Rooms are allocated on
 - Vercel (Deployment)
 
 ## Live Demo
-👉 https://YOUR_VERCEL_LINK_HERE
+👉 https://college-exam-seat-planner.vercel.app/
 
 ## How to Run Locally
 ```bash
