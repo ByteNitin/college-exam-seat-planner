@@ -1,3 +1,5 @@
+// This component allocates exam seats using a greedy approach
+
 import { useState } from "react";
 
 function AllocateExam({ classrooms }) {
